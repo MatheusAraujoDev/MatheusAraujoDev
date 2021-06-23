@@ -25,6 +25,11 @@
 <br />
 <br />
 
+![Matheus Araújo's GitHub stats](https://github-readme-stats.vercel.app/api?username=MatheusAraujoDev&show_icons=true&theme=radical)
+
+<br />
+<br />
+
 **Linguagens e ferramentas que utilizo:**  
 
 <p align="left">
