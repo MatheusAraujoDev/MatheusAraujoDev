@@ -18,7 +18,7 @@
 <br />
 <br />
 
-- 🔭 Estou sou aluno da formação de programadores da Trybe.
+- 🔭 Sou estudante da Turma 11, em formação de programadores da Trybe.
 - 🌱 No momento estou aprendendo HTML, CSS, JavaScript, React, Desenvolvimento back-End, Introdução à Ciência da Computação ...
 - 👯 Estou desenvolvendo minhas Soft Skills, trabalho em equipe, colaboração e metodologias ágeis ao longo da formação!
 - 🤔 Meus hobbies e atividades em meu tempo livre são música, viagens e jogos online ...
