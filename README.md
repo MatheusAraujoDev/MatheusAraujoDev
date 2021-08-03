@@ -47,8 +47,8 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
 </p>
 
-<p>
+<div>
   ![Snake animation](https://github.com/MatheusAraujoDev/MatheusAraujoDev/blob/output/github-contribution-grid-snake.svg)
-</p>
+</div>
 
 ⭐️ Based on [CallmeMehdi](https://github.com/CallmeMehdi)
