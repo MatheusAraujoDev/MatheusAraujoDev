@@ -23,7 +23,11 @@
 - 👯 Estou desenvolvendo minhas Soft Skills, trabalho em equipe, colaboração e metodologias ágeis ao longo da formação!
 - 🤔 Meus hobbies e atividades em meu tempo livre são música, viagens e jogos online ...
 - 💬 Pergunte-me sobre qualquer coisa ...
-- 📫 Entre em contato, **Email: matheusaraujo.dev@gmail.com**
+- 📫 Entre em contato:
+  <br />
+  **Email: matheusaraujo.dev@gmail.com**
+  <br />
+  **Telefone: (024)99906-1972**
  
 <br />
 <br />
