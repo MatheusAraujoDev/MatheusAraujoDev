@@ -32,7 +32,9 @@
 <br />
 <br />
 
-![Matheus Araújo's GitHub stats](https://github-readme-stats.vercel.app/api?username=MatheusAraujoDev&show_icons=true&theme=radical)
+[![Matheus Araújo's GitHub stats](https://github-readme-stats.vercel.app/api?username=MatheusAraujoDev&theme=radical)](https://github.com/anuraghazra/github-readme-stats)     
+
+[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusAraujoDev&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <br />
 <br />
