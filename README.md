@@ -25,9 +25,12 @@
 - 💬 Pergunte-me sobre qualquer coisa ...
 - 📫 Entre em contato:
   <br />
-  **Email: matheusaraujo.dev@gmail.com**
   <br />
-  **Telefone: (024)99906-1972**
+  **Email: matheusaraujo.vr@gmail.com**
+  <br />
+  **Telefone: (024) 99906-1972**
+  <br />
+  [CodeWars](https://www.codewars.com/users/MatheusAra%C3%BAjo)
  
 <br />
 <br />
