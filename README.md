@@ -25,7 +25,7 @@
   <br />
   **Email: matheusaraujo.vr@gmail.com**
   <br />
-  **Telefone: (024) 99906-1972**
+  **Telefone: (024) 99973-1276**
   <br />
   [CodeWars](https://www.codewars.com/users/MatheusAra%C3%BAjo)
  
