@@ -8,16 +8,16 @@
   <img src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="48px" height="48px">
 </a>
 
-## Olá 👋, me chamo **MATHEUS ARAÚJO**, sou de Volta Redonda/RJ, Brasil e atualmente estudo programação na **Trybe** 🚀. 
+## Olá 👋, me chamo **MATHEUS ARAÚJO**, sou de Volta Redonda/RJ, Brasil e atualmente sou desenvolvedor FullStack Júnior 🚀. 
 
    <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="320px" />
    
 <br />
 <br />
 
-- 🔭 Sou estudante da Turma 11, em formação de programadores da Trybe.
-- 🌱 No momento estou aprendendo HTML, CSS, JavaScript, React, Desenvolvimento back-End, Introdução à Ciência da Computação ...
-- 👯 Estou desenvolvendo minhas Soft Skills, trabalho em equipe, colaboração e metodologias ágeis ao longo da formação!
+- 🔭 Fui estudante da Turma 11, em formação de programadores da Trybe.
+- 🌱 Pude aprender HTML, CSS, JavaScript, React, Desenvolvimento back-End, Introdução à Ciência da Computação ...
+- 👯 Pude desenvolver minhas Soft Skills, trabalho em equipe, colaboração e metodologias ágeis ao longo da formação!
 - 🤔 Meus hobbies e atividades em meu tempo livre são música, viagens, academia e jogos online ...
 - 💬 Pergunte-me sobre qualquer coisa ...
 - 📫 Entre em contato:
